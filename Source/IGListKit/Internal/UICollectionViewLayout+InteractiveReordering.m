@@ -9,6 +9,7 @@
 
 #import <objc/runtime.h>
 
+#import <IGListKit/IGListAdapter.h>
 #import <IGListKit/IGListAdapterInternal.h>
 #import <IGListKit/IGListSectionController.h>
 
